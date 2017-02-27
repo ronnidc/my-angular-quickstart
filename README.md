@@ -1,4 +1,10 @@
-# Angular QuickStart Source
+# My-Angular-App tutorial playground    
+
+[Pluralsight Play-by-play-angular-2-quick-start-john-papa-ward-bell](https://app.pluralsight.com/player?course=play-by-play-angular-2-quick-start-john-papa-ward-bell)
+
+----
+
+## Angular QuickStart Source
 [![Build Status][travis-badge]][travis-badge-url]
 
 This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
@@ -12,7 +18,7 @@ It exists primarily to get you started quickly with learning and prototyping in 
 We are unlikely to accept suggestions about how to grow this QuickStart into something it is not.
 Please keep that in mind before posting issues and PRs.
 
-## Updating to a newer version of the Quickstart Repo
+## <span style="color: orange;">Updating to a newer version of the Quickstart Repo</span>
 
 From time to time the QuickStart will add be enhanced with support for new features or to reflect
 changes to the [official Style Guide](https://angular.io/docs/ts/latest/guide/style-guide.html).
