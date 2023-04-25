@@ -1,11 +1,12 @@
 # My-Angular-App tutorial playground    
 
+*Archived April 25. 2023. Outdated starter app*
+
 [Pluralsight Play-by-play-angular-2-quick-start-john-papa-ward-bell](https://app.pluralsight.com/player?course=play-by-play-angular-2-quick-start-john-papa-ward-bell)
 
 ----
 
 ## Angular QuickStart Source
-[![Build Status][travis-badge]][travis-badge-url]
 
 This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
 the foundation for most of the documentation samples and potentially a good starting point for your application.
